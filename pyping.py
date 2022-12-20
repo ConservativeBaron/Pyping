@@ -1,8 +1,8 @@
-#Program: Pyping
-#Version: 1.0
-#Date: December 12th, 2022
-#Author: Keratin
-##
+# Program: Pyping
+# Version: 1.0
+# Date: December 12th, 2022
+# Author: Keratin
+
 # Import the necessary modules
 import sys
 import time
